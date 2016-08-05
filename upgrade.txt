@@ -1,5 +1,4 @@
-This files describes API changes in the Moodle Mobile app,
-information provided here is intended especially for developers.
+This files describes API changes in the Moodle Mobile app, information provided here is intended especially for developers.
 
 === 2.9 ===
 
