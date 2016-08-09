@@ -5,14 +5,14 @@
         id        = "com.quickertutor.mobile"
         versionCode = "2"
         version   = "1.1">
-    <name>QuickerTutor Mobile</name>
+    <name>GidiLearn Mobile</name>
 
     <description>
-        Official QuickerTutor Mobile app - Learn Anywhere, Anytime
+        Official GidiLearn Mobile app - Be Free
     </description>
 
-    <author href="http://www.quickertutor.com" email="info@quickertutor.com">
-        QuickerTutor Team
+    <author href="http://www.gidilearn.com" email="info@gidilearn.com">
+        GidiLearn Team
     </author>
     <content src="index.html"/>
 
