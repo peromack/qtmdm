@@ -7723,7 +7723,7 @@ em {
  */
 .bar-content {
   border-color: transparent;
-  background-color: #5069a1; /*#87ceeb; /*Redacron alteration #f70;*/
+  background-color: #26ade3; /*#87ceeb; /*Redacron alteration #f70;*/
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
@@ -7990,7 +7990,7 @@ mm-navigation-bar .col {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #5069a1;/*Redacron Alteration *#f70;*/
+  background-color: #26ade3;/*Redacron Alteration *#f70;*/
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
@@ -8005,7 +8005,7 @@ mm-navigation-bar .col {
       color: #fff; }
 
 .has-side-menu-header {
-    background: #313848;/* redacron alteration */
+    background: #26ade3;/* redacron alteration */
   top: 80px; }
 
 input.mma-files-picker {
@@ -8256,10 +8256,10 @@ select.mma-mod_survey-select {
 
 nav .dark li a.item, nav .dark li /* redacron alteration */
 {
-    background: #313848;
-    color: #bcc3cf;
+    background: #26ade3;
+    color: #f1582d;
 }
 nav .dark li.item-divider
 {
-    background: #3e4755;
+    background: #26ade3;
 }
